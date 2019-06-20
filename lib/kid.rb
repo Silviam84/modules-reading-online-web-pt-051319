@@ -8,3 +8,6 @@ class Kid
     initialize(name)
     @name =name
     
+  end
+  
+    
